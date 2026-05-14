@@ -22,7 +22,7 @@ repository               : "Mrezamaleki/mrezamaleki.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile2026.png"
   name             : "Mohammadreza Maleki"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. graduate in Electrical and Computer Engineering. Research interests include trustworthy AI, certified robustness, neural network verification, and optimization."
