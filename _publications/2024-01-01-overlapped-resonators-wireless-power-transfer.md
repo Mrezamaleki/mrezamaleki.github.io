@@ -6,8 +6,6 @@ collection: publications
 
 category: conferences
 
-permalink: /publication/2024-01-01-overlapped-resonators-wireless-power-transfer
-
 excerpt: "A wireless power transfer study using overlapped resonators to improve electromagnetic-field uniformity and reduce blank spots in free-moving applications."
 
 date: 2024-01-01

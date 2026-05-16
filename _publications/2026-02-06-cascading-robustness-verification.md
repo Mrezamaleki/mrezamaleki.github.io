@@ -6,8 +6,6 @@ collection: publications
 
 category: conferences
 
-permalink: /publication/2026-02-06-cascading-robustness-verification
-
 excerpt: "A cascading framework for efficient model-agnostic robustness certification."
 
 date: 2026-02-06
