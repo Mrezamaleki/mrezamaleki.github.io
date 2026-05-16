@@ -1,4 +1,4 @@
-\---
+---
 
 title: "Using Overlapped Resonators in Wireless Power Transfer for Uniform Electromagnetic Field and Removing Blank Spots in Free Moving Applications"
 
@@ -16,9 +16,10 @@ paperurl: ""
 
 citation: 'Mohammadreza Maleki. "Using Overlapped Resonators in Wireless Power Transfer for Uniform Electromagnetic Field and Removing Blank Spots in Free Moving Applications."'
 
-\---
+---
 
 
 
 This work studies overlapped resonator structures for improving electromagnetic-field uniformity and reducing blank spots in free-moving wireless power transfer applications.
+
 

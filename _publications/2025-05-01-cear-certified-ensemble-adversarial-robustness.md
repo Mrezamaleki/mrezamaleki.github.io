@@ -1,4 +1,4 @@
-\---
+---
 
 title: "CEAR: Certified Ensemble Adversarial Robustness in DNNs"
 
@@ -16,9 +16,10 @@ paperurl: ""
 
 citation: 'Mohammadreza Maleki. "CEAR: Certified Ensemble Adversarial Robustness in DNNs." Accepted at Canadian AI 2026.'
 
-\---
+---
 
 
 
 This paper studies certified ensemble adversarial robustness in deep neural networks. It has been accepted at Canadian AI 2026.
+
 

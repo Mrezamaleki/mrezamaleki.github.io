@@ -1,4 +1,4 @@
-\---
+---
 
 title: "Cascading Robustness Verification: Toward Efficient Model-Agnostic Certification"
 
@@ -16,9 +16,10 @@ paperurl: "https://arxiv.org/abs/2602.04236"
 
 citation: 'Mohammadreza Maleki, Rushendra Sidibomma, Arman Adibi, and Reza Samavi. "Cascading Robustness Verification: Toward Efficient Model-Agnostic Certification." arXiv preprint arXiv:2602.04236, 2026.'
 
-\---
+---
 
 
 
 This paper introduces a cascading robustness verification framework for efficient model-agnostic certification of neural networks.
+
 
