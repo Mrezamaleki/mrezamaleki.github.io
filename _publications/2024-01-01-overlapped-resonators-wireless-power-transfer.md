@@ -1,26 +1,12 @@
 ---
-
 title: "Using Overlapped Resonators in Wireless Power Transfer for Uniform Electromagnetic Field and Removing Blank Spots in Free Moving Applications"
-
 collection: publications
-
-category: conferences
-
-excerpt: "A wireless power transfer study using overlapped resonators to improve electromagnetic-field uniformity and reduce blank spots in free-moving applications."
-
-date: 2024-01-01
-
-venue: ""
-
-paperurl: ""
-
-citation: 'Mohammadreza Maleki. "Using Overlapped Resonators in Wireless Power Transfer for Uniform Electromagnetic Field and Removing Blank Spots in Free Moving Applications."'
-
+category: manuscripts
+excerpt: "A journal article on overlapped resonators for improving electromagnetic-field uniformity and reducing blank spots in free-moving wireless power transfer applications."
+date: 2022-04-10
+venue: "Electronics"
+paperurl: "https://www.mdpi.com/2079-9292/11/8/1204"
+citation: 'Saeideh Pahlavan, Mostafa Shooshtari, Mohammadreza Maleki, and Shahin Jafarabadi Ashtiani. "Using Overlapped Resonators in Wireless Power Transfer for Uniform Electromagnetic Field and Removing Blank Spots in Free Moving Applications." Electronics 11, no. 8: 1204, 2022.'
 ---
 
-
-
-This work studies overlapped resonator structures for improving electromagnetic-field uniformity and reducing blank spots in free-moving wireless power transfer applications.
-
-
-
+This journal article studies overlapped resonator structures for improving electromagnetic-field uniformity and reducing blank spots in free-moving wireless power transfer applications.
