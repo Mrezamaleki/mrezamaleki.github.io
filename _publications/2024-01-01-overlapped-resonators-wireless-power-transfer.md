@@ -14,7 +14,7 @@ venue: ""
 
 paperurl: ""
 
-citation: "Mohammadreza Maleki. \&quot;Using Overlapped Resonators in Wireless Power Transfer for Uniform Electromagnetic Field and Removing Blank Spots in Free Moving Applications.\&quot;"
+citation: 'Mohammadreza Maleki. "Using Overlapped Resonators in Wireless Power Transfer for Uniform Electromagnetic Field and Removing Blank Spots in Free Moving Applications."'
 
 \---
 

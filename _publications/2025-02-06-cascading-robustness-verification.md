@@ -14,7 +14,7 @@ venue: "arXiv preprint"
 
 paperurl: "https://arxiv.org/abs/2602.04236"
 
-citation: "Mohammadreza Maleki, Rushendra Sidibomma, Arman Adibi, and Reza Samavi. \&quot;Cascading Robustness Verification: Toward Efficient Model-Agnostic Certification.\&quot; arXiv preprint arXiv:2602.04236, 2026."
+citation: 'Mohammadreza Maleki, Rushendra Sidibomma, Arman Adibi, and Reza Samavi. "Cascading Robustness Verification: Toward Efficient Model-Agnostic Certification." arXiv preprint arXiv:2602.04236, 2026.'
 
 \---
 

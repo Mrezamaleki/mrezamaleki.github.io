@@ -14,7 +14,7 @@ venue: "Canadian AI 2026"
 
 paperurl: ""
 
-citation: "Mohammadreza Maleki. \&quot;CEAR: Certified Ensemble Adversarial Robustness in DNNs.\&quot; Accepted at Canadian AI 2026."
+citation: 'Mohammadreza Maleki. "CEAR: Certified Ensemble Adversarial Robustness in DNNs." Accepted at Canadian AI 2026.'
 
 \---
 
