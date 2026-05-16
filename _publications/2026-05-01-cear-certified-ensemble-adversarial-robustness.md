@@ -4,6 +4,8 @@ title: "CEAR: Certified Ensemble Adversarial Robustness in DNNs"
 
 collection: publications
 
+category: conferences
+
 permalink: /publication/2026-05-01-cear-certified-ensemble-adversarial-robustness
 
 excerpt: "A certified robustness approach for ensemble-based adversarial robustness in deep neural networks."
