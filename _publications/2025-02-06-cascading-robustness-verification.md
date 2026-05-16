@@ -8,7 +8,7 @@ category: conferences
 
 excerpt: "A cascading framework for efficient model-agnostic robustness certification."
 
-date: 2026-02-06
+date: 2025-02-06
 
 venue: "arXiv preprint"
 

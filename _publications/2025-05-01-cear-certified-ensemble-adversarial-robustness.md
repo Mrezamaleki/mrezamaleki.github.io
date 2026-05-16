@@ -8,7 +8,7 @@ category: conferences
 
 excerpt: "A certified robustness approach for ensemble-based adversarial robustness in deep neural networks."
 
-date: 2026-05-01
+date: 2025-05-01
 
 venue: "Canadian AI 2026"
 
