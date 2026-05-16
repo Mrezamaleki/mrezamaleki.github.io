@@ -23,3 +23,4 @@ citation: 'Mohammadreza Maleki. "CEAR: Certified Ensemble Adversarial Robustness
 This paper studies certified ensemble adversarial robustness in deep neural networks. It has been accepted at Canadian AI 2026.
 
 
+

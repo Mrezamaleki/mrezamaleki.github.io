@@ -23,3 +23,4 @@ citation: 'Mohammadreza Maleki. "Using Overlapped Resonators in Wireless Power T
 This work studies overlapped resonator structures for improving electromagnetic-field uniformity and reducing blank spots in free-moving wireless power transfer applications.
 
 
+
