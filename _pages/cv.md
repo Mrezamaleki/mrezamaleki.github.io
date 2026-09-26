@@ -7,58 +7,46 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## Profile
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Postdoctoral researcher working on trustworthy machine learning, certified robustness, neural-network verification, and optimization. I develop mathematical methods and reproducible software for robust AI, with additional experience in experimentation and product analytics.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Education
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- **Ph.D., Computer Systems Engineering**, Toronto Metropolitan University, May 2026. Thesis: *Scalable Robust Verification of Neural Networks*. Supervisor: Prof. Reza Samavi.
+- **M.Sc., Electrical Engineering (Integrated Circuit Engineering)**, University of Tehran, October 2020.
+- **B.Sc., Electrical Engineering (Communication)**, Isfahan University of Technology, August 2017.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Research and professional experience
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- **Postdoctoral Fellow**, Trustworthy AI Research Lab, Toronto Metropolitan University, June 2026–present. Develop certified-training methods and study scalable LP, SDP, and SOCP relaxations for neural-network robustness.
+- **Vector Faculty Affiliate Researcher**. Research on trustworthy and robust machine learning.
+- **Industry Research Collaborator**, jamais51 Technologies Inc. and Toronto Metropolitan University, June 2026–present. Study threat models, integrity conditions, and adversarial testing for an independent settlement verifier.
+- **Head of Product & Data**, ParagraphAI and SpeechLP, 2026 (former). Worked on product analytics, experiments, growth measurement, and product decisions informed by user and clinical needs.
+- **Doctoral Researcher**, Trustworthy AI Research Lab, Toronto Metropolitan University, September 2021–May 2026. Developed and evaluated scalable robustness certificates and verification strategies.
+- **Research Assistant**, Analog Integrated Circuit Design Laboratory, University of Tehran, 2017–2020. Modeled inductive wireless power systems and contributed to a deep-brain-stimulator research project.
+
+## Selected research
+
+- **Cascading robustness verification:** Allocate stronger verification methods to unresolved cases to balance certificate quality and computational cost.
+- **Sparse conic relaxations and CoRe-CROWN:** Study selective second-order cone constraints for verification and certified training. Manuscripts under review; see [Publications](/publications/) for status.
+- **Quickest change detection:** Develop score-based methods using Gaussian smoothing and diffusion-scale integration; ongoing work.
+
+## Publications
+
+See the [publications and manuscripts page](/publications/) for the current list and links.
+
+## Teaching
+
+Instructor for ELE 202 (Electric Circuit Analysis) at Toronto Metropolitan University in Winter 2025. Graduate assistant for courses in statistics, probability, discrete mathematics, differential equations, and electronic circuits. See [Teaching](/teaching/).
+
+## Academic service
+
+- Invited reviewer, *Machine Learning* (Springer Nature), 2026.
+- Invited reviewer, Asian Conference on Machine Learning (ACML), 2026.
+
+## Technical skills
+
+- **Programming and ML:** Python, PyTorch, TensorFlow, NumPy, pandas, SciPy, scikit-learn; SQL, MATLAB, and C.
+- **Research methods:** Convex optimization, LP, SDP, SOCP, bound propagation, robust training, statistical inference, controlled experiments, and model evaluation.
+- **Tools:** Git, GitHub, Linux, Jupyter, and LaTeX.
