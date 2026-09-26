@@ -2,33 +2,23 @@
 permalink: /
 title: "About"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am Mohammadreza Maleki, a Ph.D. graduate in Electrical and Computer Engineering from Toronto Metropolitan University. My research focuses on trustworthy artificial intelligence, certified robustness, neural network verification, and optimization-based methods for reliable machine learning.
+I am Mohammadreza Maleki, a postdoctoral fellow in the Trustworthy AI Research Lab at Toronto Metropolitan University and a Vector Faculty Affiliate Researcher. I completed my Ph.D. in Computer Systems Engineering in 2026. My work connects machine learning, mathematical optimization, and statistical inference to develop reliable AI systems.
 
-My work studies how convex optimization, relaxation methods, and verification frameworks can provide formal guarantees for neural networks. I am particularly interested in scalable certification methods based on linear programming, semidefinite programming, and second-order cone programming, with an emphasis on the trade-off between computational efficiency and bound tightness.
+My principal research area is certified robustness of neural networks. I study scalable verification and certified training using bound propagation, cascading verification, and convex relaxations, including linear, semidefinite, and second-order cone methods. I also work on quickest change detection using score-based models. My research combines mathematical analysis with reproducible implementation and empirical evaluation.
 
-I am also interested in broader applications of reliable machine learning, including robust training, safety-critical AI systems, and trustworthy AI methods for modern deep learning models.
+Beyond academic research, I have worked on product analytics and applied machine learning. My experience includes designing experiments, analyzing user and product data, evaluating models, and translating research questions into measurable product decisions. I am interested in ML engineering, research science, applied AI, and data science roles where rigorous methods can improve real systems.
 
-Research Interests
+Research interests
 ======
 
-- Certified robustness and neural network verification
-- Trustworthy and reliable machine learning
-- Convex optimization for deep learning
-- LP, SDP, and SOCP relaxations
-- Robust training and adversarial robustness
-- Scalable verification methods for neural networks
+- Certified robustness, adversarial machine learning, and neural-network verification
+- Certified training and scalable convex optimization
+- Score-based modeling and quickest change detection
+- Machine learning evaluation, experimentation, and causal inference
 
-Selected Work
-======
-
-My recent work includes research on cascading robustness verification and SOCP-based certified robustness methods for neural networks. I am interested in developing verification methods that are both mathematically rigorous and computationally practical.
-
-Contact
-======
-
-You can find more information about my publications, talks, teaching, and CV using the navigation menu above.
+Explore my [publications](/publications/), [research projects](/portfolio/), [presentations](/talks/), [teaching](/teaching/), and [CV](/cv/). For inquiries, email [mohammadreza1.maleki@torontomu.ca](mailto:mohammadreza1.maleki@torontomu.ca).
