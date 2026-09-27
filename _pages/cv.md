@@ -36,9 +36,15 @@ Postdoctoral researcher working on trustworthy machine learning, certified robus
 
 See the [publications page](/publications/) for published papers and download links.
 
-## Teaching
+## Teaching and mentorship
 
-Instructor for ELE 202 (Electric Circuit Analysis) at Toronto Metropolitan University in Winter 2025. Graduate assistant for courses in statistics, probability, discrete mathematics, differential equations, and electronic circuits. See [Teaching](/teaching/).
+**Course instructor:** ELE 202 — Electric Circuit Analysis, Toronto Metropolitan University (Winter 2025).
+
+**Course graduate assistant, Toronto Metropolitan University:** MTH 410 — Statistics (Winter 2026); MTH 380 — Probability and Statistics I (Fall/Winter 2023); MTH 312 — Differential Equations and Vector Calculus (Fall 2024); MTH 110 — Discrete Mathematics I (Fall 2024); ELE 504 — Electronic Circuits II (Fall 2024); ELE 404 — Electronic Circuits I (2022–2026); ELE 302 — Electric Network (2021–2025); ELE 202 — Electric Circuit Analysis (2022–2026).
+
+**Course graduate assistant, University of Tehran:** Electronics III (Fall 2018); Electronics II (2018–2019); Data Converters (Spring 2019).
+
+**Research mentorship:** Assisted with the research supervision of Rushendra Sidibomma (Mitacs Globalink, 2023), Daniel Sediq (M.A.Sc., graduated 2026), and Hao Luo (M.Eng., graduated 2024). See [Teaching and Mentorship](/teaching/) for their projects and collaborations.
 
 ## Academic service
 
