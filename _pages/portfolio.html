@@ -1,14 +1,24 @@
 ---
 layout: archive
-title: "Portfolio"
+title: "Research"
 permalink: /portfolio/
 author_profile: true
 ---
 
-{% include base_path %}
+My research focuses on reliable machine learning. The projects below summarize the methods and questions; [employment history](/experience/) lists my research and industry roles.
 
+## CoRe-CROWN: Conic-Regularized Certified Robust Training
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+I developed a certified-training method that combines a Dual-CROWN objective with sparse regularization derived from second-order cone (SOC) constraints. The conic component is applied during training. The method uses influence-based selection of unstable ReLU units and local lifted constraints to target computational effort. Evaluation includes clean accuracy, adversarial robustness, and certified accuracy.
 
+## Certified Robustness via Sparse Second-Order Cone Relaxations
+
+I developed sparse SOCP relaxations that combine ReLU convex-hull constraints, selective McCormick lifting, and local \(2\times2\) SOC constraints. Class-specific cascading verification applies tighter relaxations to targets that remain unresolved, with the aim of improving certificate quality while controlling runtime. This line of work is being revised for a planned AISTATS 2027 submission.
+
+## Score-Based Quickest Change Detection
+
+With collaborators, I study sample-based change detection using scores of Gaussian-smoothed empirical distributions. The approach integrates score information across diffusion scales and analyzes detection delay and false-alarm behavior. A manuscript is in preparation for AISTATS 2027.
+
+## Cascading and Ensemble Robustness
+
+[Cascading robustness verification](/publications/) applies stronger verification methods only to unresolved cases and studies the trade-off between certificate quality and computation. I also contributed to [CEAR](/publications/), an ensemble approach to adversarial robustness with randomized-smoothing certificates, evaluated on MNIST, CIFAR-10, and Tiny ImageNet.
