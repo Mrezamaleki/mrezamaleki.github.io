@@ -46,10 +46,18 @@ See the [publications page](/publications/) for published papers and download li
 
 **Research mentorship:** Assisted with the research supervision of Rushendra Sidibomma (Mitacs Globalink, 2023), Daniel Sediq (M.A.Sc., graduated 2026), and Hao Luo (M.Eng., graduated 2024). See [Teaching and Mentorship](/teaching/) for their projects and collaborations.
 
-## Academic service
+## Academic and professional service
 
-- Invited reviewer, *Machine Learning* (Springer Nature), 2026.
-- Invited reviewer, Asian Conference on Machine Learning (ACML), 2026.
+- Invited Reviewer, *Machine Learning* (Springer Nature), 2026.
+- Invited Reviewer, 18th Asian Conference on Machine Learning (ACML), 2026.
+
+## Honors and awards
+
+- TMU Graduate Fellowship (2023–2025), Graduate Development Award (2021–2024), FEAS Graduate Funding (2021–2023), and International Student Scholarship (2022–2023).
+- Top 0.5% of 40,000 candidates, Nationwide Graduate Qualifying Examination in Electrical Engineering, 2017.
+- Top 1% of 251,956 candidates, Nationwide University Entrance Qualification Test, 2013.
+
+See [Service and Awards](/service-awards/) for the full list.
 
 ## Technical skills
 
