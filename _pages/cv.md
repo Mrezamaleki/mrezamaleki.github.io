@@ -44,7 +44,7 @@ See the [publications page](/publications/) for published papers and download li
 
 **Course graduate assistant, University of Tehran:** Electronics III (Fall 2018); Electronics II (2018–2019); Data Converters (Spring 2019).
 
-**Research mentorship:** Assisted with the research supervision of Rushendra Sidibomma (Mitacs Globalink, 2023), Daniel Sediq (M.A.Sc., graduated 2026), and Hao Luo (M.Eng., graduated 2024). See [Teaching and Mentorship](/teaching/) for their projects and collaborations.
+**Research mentorship:** Assisted with the research supervision of Rushendra Sidibomma (Mitacs Globalink, 2023), Daniel Sadig (M.A.Sc., graduated 2026), and Hao Luo (M.Eng., graduated 2024). See [Teaching and Mentorship](/teaching/) for their projects and collaborations.
 
 ## Academic and professional service
 
