@@ -29,12 +29,12 @@ Postdoctoral researcher working on trustworthy machine learning, certified robus
 ## Selected research
 
 - **Cascading robustness verification:** Allocate stronger verification methods to unresolved cases to balance certificate quality and computational cost.
-- **Sparse conic relaxations and CoRe-CROWN:** Study selective second-order cone constraints for verification and certified training. Manuscripts under review; see [Publications](/publications/) for status.
+- **Sparse conic relaxations and CoRe-CROWN:** Study selective second-order cone constraints for verification and certified training. Research manuscripts remain in progress.
 - **Quickest change detection:** Develop score-based methods using Gaussian smoothing and diffusion-scale integration; ongoing work.
 
 ## Publications
 
-See the [publications and manuscripts page](/publications/) for the current list and links.
+See the [publications page](/publications/) for published papers and download links.
 
 ## Teaching
 
