@@ -37,6 +37,12 @@
     {% endif %}
     {% if post.date %}<p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
     {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">{{post.type}}, {{ post.venue }},  {{post.location}}{% if post.year %}, {{ post.year }}{% endif %} {% endif %}
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
+    {% if post.excerpt %}<div class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</div>{% endif %}
+    {% if post.photo %}
+      <figure class="talk__photo">
+        <a href="{{ base_path }}{{ post.url }}"><img src="{{ post.photo | prepend: base_path }}" alt="{{ post.photo_alt | default: post.title }}" loading="lazy" style="display:block;width:100%;max-width:560px;height:auto;border-radius:6px;"></a>
+        {% if post.photo_caption %}<figcaption>{{ post.photo_caption }}</figcaption>{% endif %}
+      </figure>
+    {% endif %}
   </article>
 </div>
