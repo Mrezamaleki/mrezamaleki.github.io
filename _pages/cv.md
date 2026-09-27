@@ -13,24 +13,30 @@ Postdoctoral researcher working on trustworthy machine learning, certified robus
 
 ## Education
 
-- **Ph.D., Computer Systems Engineering**, Toronto Metropolitan University, May 2026. Thesis: *Scalable Robust Verification of Neural Networks*. Supervisor: Prof. Reza Samavi.
-- **M.Sc., Electrical Engineering (Integrated Circuit Engineering)**, University of Tehran, October 2020.
-- **B.Sc., Electrical Engineering (Communication)**, Isfahan University of Technology, August 2017.
+- **Ph.D., Computer Systems Engineering**, Toronto Metropolitan University, September 2021–May 2026. Research area: neural-network robustness verification. Thesis: *Scalable Robust Verification of Neural Networks*. Supervisor: Prof. Reza Samavi. GPA: A+.
+- **M.Sc., Electrical Engineering (Integrated Circuit Engineering)**, University of Tehran, 2017–2020. Thesis: *Phase Array Inductive Wireless Power Transfer for Moving Load*. Supervisor: Prof. Shahin Jafarabadi Ashtiani. GPA: 17.29/20 (3.7/4.0); thesis evaluation: Excellent.
+- **B.Sc., Electrical Engineering (Communication)**, Isfahan University of Technology, 2013–2017. Capstone: *Basics and Applications of Digital Controlled Oscillators* (supervisor: Prof. Masood Omoomi). Elective project: *Design and Simulation of an X-Band Microwave Amplifier* (supervisor: Prof. Abolghasem Zeidaabadi Nezhad). GPA: 16.66/20 (3.67/4.0).
 
-## Research and professional experience
+## Employment history
 
-- **Postdoctoral Fellow**, Trustworthy AI Research Lab, Toronto Metropolitan University, June 2026–present. Develop certified-training methods and study scalable LP, SDP, and SOCP relaxations for neural-network robustness.
-- **Vector Faculty Affiliate Researcher**. Research on trustworthy and robust machine learning.
-- **Industry Research Collaborator**, jamais51 Technologies Inc. and Toronto Metropolitan University, June 2026–present. Study threat models, integrity conditions, and adversarial testing for an independent settlement verifier.
-- **Head of Product & Data**, ParagraphAI and SpeechLP, 2026 (former). Worked on product analytics, experiments, growth measurement, and product decisions informed by user and clinical needs.
-- **Doctoral Researcher**, Trustworthy AI Research Lab, Toronto Metropolitan University, September 2021–May 2026. Developed and evaluated scalable robustness certificates and verification strategies.
-- **Research Assistant**, Analog Integrated Circuit Design Laboratory, University of Tehran, 2017–2020. Modeled inductive wireless power systems and contributed to a deep-brain-stimulator research project.
+- **Postdoctoral Fellow**, Trustworthy AI Research Lab, Toronto Metropolitan University, June 2026–present. Develop scalable certified-training methods and analyze LP, SOCP, and SDP relaxations for neural-network robustness.
+- **Industry Research Collaborator**, jamais51 Technologies Inc. and Toronto Metropolitan University, June 2026–present. Formalize threat models and integrity conditions and test an independent settlement verifier.
+- **Product and Data Roles**, ParagraphAI and SpeechLP, 2026 (former). Designed product experiments, analyzed user and growth data, and translated product and clinical needs into evaluation plans.
+- **Doctoral Researcher / Research Assistant**, Trustworthy AI Research Lab, Toronto Metropolitan University, September 2021–May 2026. Developed robustness certificates, cascading verification, and research software.
+- **Research Assistant**, Analog Integrated Circuit Design Laboratory, University of Tehran, 2017–2020. Modeled inductive wireless power systems and contributed to a deep-brain-stimulator project.
 
-## Selected research
+**Research affiliation:** Vector Faculty Affiliate Researcher.
 
-- **Cascading robustness verification:** Allocate stronger verification methods to unresolved cases to balance certificate quality and computational cost.
-- **Sparse conic relaxations and CoRe-CROWN:** Study selective second-order cone constraints for verification and certified training. Research manuscripts remain in progress.
-- **Quickest change detection:** Develop score-based methods using Gaussian smoothing and diffusion-scale integration; ongoing work.
+See [Experience](/experience/) for responsibilities and dates.
+
+## Selected research contributions
+
+- **CoRe-CROWN:** Combine a Dual-CROWN training objective with selectively applied SOCP-derived regularization and influence-based block selection.
+- **Sparse conic verification:** Use selective McCormick lifting and local SOC constraints in cascading verification. A revised manuscript is planned for AISTATS 2027.
+- **Score-based quickest change detection:** Study Gaussian-smoothed scores and diffusion-scale integration; manuscript in preparation for AISTATS 2027.
+- **Cascading and ensemble robustness:** Develop staged verification and contribute to CEAR's ensemble robustness framework.
+
+See [Research](/portfolio/) for details.
 
 ## Publications
 
