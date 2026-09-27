@@ -21,4 +21,4 @@ Research interests
 - Score-based modeling and quickest change detection
 - Machine learning evaluation, experimentation, and causal inference
 
-Explore my [publications](/publications/), [research projects](/portfolio/), [presentations](/talks/), [teaching](/teaching/), [service and awards](/service-awards/), and [CV](/cv/). For inquiries, email [mohammadreza1.maleki@torontomu.ca](mailto:mohammadreza1.maleki@torontomu.ca).
+Explore my [publications](/publications/), [research](/portfolio/), [experience](/experience/), [presentations](/talks/), [teaching](/teaching/), [service and awards](/service-awards/), and [CV](/cv/). For inquiries, email [mohammadreza1.maleki@torontomu.ca](mailto:mohammadreza1.maleki@torontomu.ca).
