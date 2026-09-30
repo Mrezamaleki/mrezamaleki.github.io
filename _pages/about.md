@@ -7,18 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-I am Mohammadreza Maleki, a postdoctoral fellow in the Trustworthy AI Research Lab at Toronto Metropolitan University and a Vector Faculty Affiliate Researcher. I completed my Ph.D. in Computer Systems Engineering in 2026. My work connects machine learning, mathematical optimization, and statistical inference to develop reliable AI systems.
+I am **Mohammadreza Maleki**, a Postdoctoral Fellow in the Trustworthy AI Research Lab at Toronto Metropolitan University and a Vector Faculty Affiliate Researcher. I completed my Ph.D. in Computer Systems Engineering at TMU in May 2026, supervised by Prof. Reza Samavi.
 
-My principal research area is certified robustness of neural networks. I study scalable verification and certified training using bound propagation, cascading verification, and convex relaxations, including linear, semidefinite, and second-order cone methods. I also work on quickest change detection using score-based models. My research combines mathematical analysis with reproducible implementation and empirical evaluation.
+I develop methods for **trustworthy machine learning**, connecting mathematical optimization and statistical inference with reproducible Python/PyTorch experiments. My research focuses on scalable neural-network verification, certified robust training, and sequential detection of distribution shifts. I evaluate methods through explicit accuracy, robustness, runtime, and false-alarm criteria.
 
-Beyond academic research, I have worked on product analytics and applied machine learning. My experience includes designing experiments, analyzing user and product data, evaluating models, and translating research questions into measurable product decisions. I am interested in ML engineering, research science, applied AI, and data science roles where rigorous methods can improve real systems.
+My current collaborations include work with researchers at Princeton University and Augusta University on diffusion-integrated quickest change detection. Arman Adibi and I contributed equally to this work. I also collaborate with jamais51 Technologies and TMU on threat modeling and adversarial evaluation for an independent settlement verifier.
 
-Research interests
-======
+My industry experience includes product and data work at ParagraphAI, where I designed controlled experiments, analyzed product and growth data, and configured and evaluated AI-agent workflows. SpeechLP was a project within this role, involving collaboration with speech-language pathologists and developers.
+
+I am interested in **Machine Learning Engineer, ML Researcher, AI Scientist, Research Scientist, and Data Scientist** opportunities that connect rigorous research with practical implementation and evaluation.
+
+## Research and applied interests
 
 - Certified robustness, adversarial machine learning, and neural-network verification
-- Certified training and scalable convex optimization
-- Score-based modeling and quickest change detection
-- Machine learning evaluation, experimentation, and causal inference
+- Certified robust training, bound propagation, and scalable convex relaxations
+- Sequential distribution-shift detection and statistical inference
+- AI-agent evaluation, product experimentation, and causal inference
 
-Explore my [publications](/publications/), [research](/portfolio/), [experience](/experience/), [presentations](/talks/), [teaching](/teaching/), [service and awards](/service-awards/), and [CV](/cv/). For inquiries, email [mohammadreza1.maleki@torontomu.ca](mailto:mohammadreza1.maleki@torontomu.ca).
+Explore my [research and selected projects](/portfolio/), [publications](/publications/), [experience](/experience/), and [CV](/cv/). My [presentations](/talks/), [teaching and mentorship](/teaching/), and [service and awards](/service-awards/) provide additional context.
+
+**Contact:** [Academic email](mailto:mohammadreza1.maleki@torontomu.ca) · [Personal email](mailto:mrezamaleki1374@gmail.com) · [LinkedIn](https://linkedin.com/in/mreza-maleki) · [GitHub](https://github.com/Mrezamaleki)

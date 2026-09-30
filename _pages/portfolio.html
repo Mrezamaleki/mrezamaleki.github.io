@@ -1,24 +1,67 @@
 ---
 layout: archive
-title: "Research"
+title: "Research and Selected Projects"
 permalink: /portfolio/
 author_profile: true
 ---
 
-My research focuses on reliable machine learning. The projects below summarize the methods and questions; [employment history](/experience/) lists my research and industry roles.
+<p>My work connects trustworthy machine learning, optimization, and statistical inference. These projects summarize methods and documented results; <a href="/experience/">Experience</a> describes my responsibilities and appointments.</p>
 
-## CoRe-CROWN: Conic-Regularized Certified Robust Training
+<h2>Scalable Neural-Network Robustness Verification</h2>
+<ul>
+<li>Developed sparse second-order cone programming (SOCP) relaxations to strengthen certified robustness guarantees for ReLU networks, using selective McCormick lifting and local 2 × 2 positive-semidefinite constraints.</li>
+<li>Designed <strong>CORE</strong>, a class-wise verification cascade that matched SDP-certified robust accuracy while reducing average verification time by up to <strong>86.30%</strong> on a fully connected MNIST benchmark.</li>
+<li>Evaluated fully connected and convolutional networks on MNIST and CIFAR-10 against LP, SDP, and α,β-CROWN baselines using certified robust accuracy and runtime.</li>
+</ul>
+<p><em>Related manuscript: Certified Robustness via Sparse Second-Order Cone Relaxations. Under review, AISTATS 2027.</em></p>
 
-I developed a certified-training method that combines a Dual-CROWN objective with sparse regularization derived from second-order cone (SOC) constraints. The conic component is applied during training. The method uses influence-based selection of unstable ReLU units and local lifted constraints to target computational effort. Evaluation includes clean accuracy, adversarial robustness, and certified accuracy.
+<h2>CoRe-CROWN: Conic-Regularized Certified Robust Training</h2>
+<ul>
+<li>Developed certified robust training that combines a Dual-CROWN objective with sparse SOCP-derived regularization applied during training.</li>
+<li>Designed influence-based selection of unstable ReLU units and local lifted constraints using McCormick envelopes and 2 × 2 positive-semidefinite constraints.</li>
+<li>Evaluated clean accuracy, adversarial robustness, and complete certified accuracy to examine the effect of the training regularizer.</li>
+</ul>
+<p><em>Under review, AAAI 2027.</em></p>
 
-## Certified Robustness via Sparse Second-Order Cone Relaxations
+<h2>Sequential Distribution-Shift Detection — DI-SCUSUM</h2>
+<ul>
+<li>Co-developed a training-free method for streaming change detection using closed-form scores across Gaussian smoothing scales.</li>
+<li>Established detection-delay and false-alarm guarantees linked to Kullback–Leibler divergence under empirical models.</li>
+<li>Evaluated Gaussian simulations, MNIST, and Oxford-IIIT Pet at matched false-alarm levels. In a calibrated anisotropic Gaussian experiment, achieved approximately <strong>91% lower detection delay</strong> than score-based CUSUM, nearly matching likelihood-ratio CUSUM.</li>
+</ul>
+<p><strong>Equal contribution:</strong> Arman Adibi and Mohammadreza Maleki. Collaboration with Sanjeev Kulkarni and H. Vincent Poor at Princeton University.</p>
+<p><em>Related manuscript: Quickest Change Detection with Diffusion-Integrated Scores. Under review, AISTATS 2027.</em></p>
 
-I developed sparse SOCP relaxations that combine ReLU convex-hull constraints, selective McCormick lifting, and local \(2\times2\) SOC constraints. Class-specific cascading verification applies tighter relaxations to targets that remain unresolved, with the aim of improving certificate quality while controlling runtime. This line of work is being revised for a planned AISTATS 2027 submission.
+<h2>Secure Machine Learning — UN PET Lab Hackathon</h2>
+<p>Secure Machine Learning course project, December 2022.</p>
+<ul>
+<li>Built a prediction workflow for hidden training labels using privacy-budgeted queries and SmartNoise.</li>
+<li>Applied missingness screening, histogram analysis, and correlation analysis; compared linear regression, random forest classification, and logistic regression.</li>
+<li>Obtained a <strong>0.6934 competition score</strong> with logistic regression at total epsilon expenditure of <strong>1.85</strong>. This is the reported competition score, not a classification-accuracy percentage.</li>
+<li>Extended the study to heart-disease prediction: reported decision-tree accuracy was 57% without differential privacy and 52% with epsilon = 0.1 in the documented experiment.</li>
+</ul>
+<p><a href="https://github.com/Mrezamaleki/secure-machine-learning-course-project">Code, methods, reported results, and limitations</a></p>
 
-## Score-Based Quickest Change Detection
+<h2>Cascading and Ensemble Robustness</h2>
+<ul>
+<li>Developed staged verification that applies stronger methods only to unresolved cases and evaluates certificate-quality/runtime trade-offs.</li>
+<li>Contributed to CEAR, an ensemble robustness framework evaluated on MNIST, CIFAR-10, and Tiny ImageNet.</li>
+</ul>
+<p>See the <a href="/publications/">SaTML and Canadian AI publications</a> for paper summaries and downloads.</p>
 
-With collaborators, I study sample-based change detection using scores of Gaussian-smoothed empirical distributions. The approach integrates score information across diffusion scales and analyzes detection delay and false-alarm behavior. A manuscript is in preparation for AISTATS 2027.
+<h2>Product Experimentation and AI-Agent Workflows</h2>
+<ul>
+<li>At ParagraphAI, designed controlled product experiments and analyzed engagement, funnels, campaigns, and revenue to support product decisions.</li>
+<li>Configured and evaluated AI agents for analytics, content generation, and workflow automation using prompt refinement and structured validation.</li>
+<li>For SpeechLP, a project within ParagraphAI, worked with speech-language pathologists and developers on product planning, content verification, and speech-therapy games.</li>
+</ul>
 
-## Cascading and Ensemble Robustness
+<h2>Earlier Engineering Projects</h2>
+<ul>
+<li><strong>Master’s thesis — Phase Array Inductive Wireless Power Transfer for Moving Load:</strong> University of Tehran; supervised by Prof. Shahin Jafarabadi Ashtiani. Research involved mathematical modeling, optimization, and simulation of inductive wireless power-transfer systems.</li>
+<li><strong>Bachelor’s capstone — Basics and Applications of Digital Controlled Oscillators:</strong> Isfahan University of Technology; supervised by Prof. Masood Omoomi.</li>
+<li><strong>X-band microwave amplifier:</strong> Bachelor’s elective project on amplifier design and simulation; supervised by Prof. Abolghasem Zeidaabadi Nezhad.</li>
+<li><strong>Deep Brain Stimulator national project:</strong> Contributed to the design, optimization, and evaluation of Class-E/D amplifiers, power and data coils, and rectifiers.</li>
+</ul>
 
-[Cascading robustness verification](/publications/) applies stronger verification methods only to unresolved cases and studies the trade-off between certificate quality and computation. I also contributed to [CEAR](/publications/), an ensemble approach to adversarial robustness with randomized-smoothing certificates, evaluated on MNIST, CIFAR-10, and Tiny ImageNet.
+<p>For a consolidated summary, see my <a href="/cv/">CV</a> or <a href="/files/Mohammadreza-Maleki-CV.pdf">download the two-page PDF</a>.</p>

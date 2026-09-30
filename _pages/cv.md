@@ -9,7 +9,9 @@ redirect_from:
 
 ## Profile
 
-Postdoctoral researcher working on trustworthy machine learning, certified robustness, neural-network verification, and optimization. I develop mathematical methods and reproducible software for robust AI, with additional experience in experimentation and product analytics.
+Postdoctoral Fellow at Toronto Metropolitan University and Vector Faculty Affiliate Researcher, working on trustworthy machine learning, certified robustness, and sequential change detection. I develop mathematical methods and reproducible Python/PyTorch experiments, with industry experience in product experimentation, causal analysis, and AI-agent evaluation.
+
+[Download my CV (PDF)](/files/Mohammadreza-Maleki-CV.pdf). This two-page version summarizes my research and applied AI experience.
 
 ## Education
 
@@ -21,7 +23,7 @@ Postdoctoral researcher working on trustworthy machine learning, certified robus
 
 - **Postdoctoral Fellow**, Trustworthy AI Research Lab, Toronto Metropolitan University, June 2026–present. Develop scalable certified-training methods and analyze LP, SOCP, and SDP relaxations for neural-network robustness.
 - **Industry Research Collaborator**, jamais51 Technologies Inc. and Toronto Metropolitan University, June 2026–present. Formalize threat models and integrity conditions and test an independent settlement verifier.
-- **Product and Data Roles**, ParagraphAI and SpeechLP, 2026 (former). Designed product experiments, analyzed user and growth data, and translated product and clinical needs into evaluation plans.
+- **Head of Product & Data**, ParagraphAI, June–September 2026. Designed controlled product experiments, analyzed user and growth data, and configured AI-agent workflows. SpeechLP was a project within this role; collaborated with speech-language pathologists and developers on product planning, content verification, and speech-therapy games.
 - **Doctoral Researcher / Research Assistant**, Trustworthy AI Research Lab, Toronto Metropolitan University, September 2021–May 2026. Developed robustness certificates, cascading verification, and research software.
 - **Research Assistant**, Analog Integrated Circuit Design Laboratory, University of Tehran, 2017–2020. Modeled inductive wireless power systems and contributed to a deep-brain-stimulator project.
 
@@ -29,18 +31,26 @@ Postdoctoral researcher working on trustworthy machine learning, certified robus
 
 See [Experience](/experience/) for responsibilities and dates.
 
-## Selected research contributions
+## Selected projects
 
-- **CoRe-CROWN:** Combine a Dual-CROWN training objective with selectively applied SOCP-derived regularization and influence-based block selection.
-- **Sparse conic verification:** Use selective McCormick lifting and local SOC constraints in cascading verification. A revised manuscript is planned for AISTATS 2027.
-- **Score-based quickest change detection:** Study Gaussian-smoothed scores and diffusion-scale integration; manuscript in preparation for AISTATS 2027.
-- **Cascading and ensemble robustness:** Develop staged verification and contribute to CEAR's ensemble robustness framework.
+- **Scalable neural-network robustness verification:** Developed sparse SOCP relaxations and the CORE class-wise verification cascade. On a fully connected MNIST benchmark, CORE matched SDP-certified robust accuracy while reducing average verification time by up to **86.30%**.
+- **CoRe-CROWN:** Combined a Dual-CROWN training objective with sparse SOCP-derived regularization, influence-based block selection, and local lifted constraints; evaluated complete certified accuracy.
+- **DI-SCUSUM:** Co-developed training-free streaming change detection using closed-form Gaussian-smoothed scores. In a calibrated anisotropic Gaussian experiment, achieved approximately **91% lower detection delay** than score-based CUSUM at matched false-alarm levels.
+- **Secure Machine Learning / UN PET Lab Hackathon:** Applied feature screening and SmartNoise queries to estimate hidden labels under a privacy budget. Logistic regression achieved a **0.6934 competition score** at total epsilon expenditure of **1.85**. [Project repository](https://github.com/Mrezamaleki/secure-machine-learning-course-project).
 
-See [Research](/portfolio/) for details.
+See [Research and Selected Projects](/portfolio/) for methods, benchmarks, and earlier engineering projects.
 
-## Publications
+## Publications and manuscripts
 
-See the [publications page](/publications/) for published papers and download links.
+### Manuscripts under review
+
+- **M. Maleki**, D. Sadig, R. Sidibomma, M. Fazlyab, A. Adibi, and R. Samavi. *Certified Robustness via Sparse Second-Order Cone Relaxations*. Under review, AISTATS 2027.
+- A. Adibi\*, **M. Maleki**\*, S. Kulkarni, and H. V. Poor. *Quickest Change Detection with Diffusion-Integrated Scores*. Under review, AISTATS 2027. **\*Equal contribution.**
+- **M. Maleki**, D. Sadig, A. Adibi, and R. Samavi. *CoRe-CROWN: Conic-Regularized Certified Robust Training*. Under review, AAAI 2027.
+
+### Peer-reviewed publications
+
+See the [publications page](/publications/) for the SaTML, Canadian AI, and journal papers, summaries, and download links.
 
 ## Teaching and mentorship
 
@@ -68,5 +78,5 @@ See [Service and Awards](/service-awards/) for the full list.
 ## Technical skills
 
 - **Programming and ML:** Python, PyTorch, TensorFlow, NumPy, pandas, SciPy, scikit-learn; SQL, MATLAB, and C.
-- **Research methods:** Convex optimization, LP, SDP, SOCP, bound propagation, robust training, statistical inference, controlled experiments, and model evaluation.
+- **Research methods:** Convex optimization, LP, SDP, SOCP, bound propagation, robust training, statistical inference, controlled experiments, causal inference, change detection, and model evaluation.
 - **Tools:** Git, GitHub, Linux, Jupyter, and LaTeX.
