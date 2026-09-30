@@ -7,23 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am **Mohammadreza Maleki**, a Postdoctoral Fellow in the Trustworthy AI Research Lab at Toronto Metropolitan University and a Vector Faculty Affiliate Researcher. I completed my Ph.D. in Computer Systems Engineering at TMU in May 2026, supervised by Prof. Reza Samavi.
+I am **Mohammadreza Maleki**, a **Postdoctoral Fellow** in the Trustworthy AI Research Lab at Toronto Metropolitan University and a **Vector Faculty Affiliate Researcher**. I hold a Ph.D. in Computer Systems Engineering from TMU and an M.Sc. in Electrical Engineering from the University of Tehran.
 
-I develop methods for **trustworthy machine learning**, connecting mathematical optimization and statistical inference with reproducible Python/PyTorch experiments. My research focuses on scalable neural-network verification, certified robust training, and sequential detection of distribution shifts. I evaluate methods through explicit accuracy, robustness, runtime, and false-alarm criteria.
+My research focuses on **trustworthy machine learning**, including neural-network verification, certified robust training, and sequential distribution-shift detection. I connect mathematical optimization and statistical inference with **reproducible Python/PyTorch experiments**, using benchmarking, ablation studies, error analysis, and robustness evaluation. I am an author or coauthor of published and under-review work in certified robustness, robust ensembles, and optimization-based verification.
 
-My current collaborations include work with researchers at Princeton University and Augusta University on diffusion-integrated quickest change detection. Arman Adibi and I contributed equally to this work. I also collaborate with jamais51 Technologies and TMU on threat modeling and adversarial evaluation for an independent settlement verifier.
+My applied experience includes **AI-agent workflows, prompt refinement, structured evaluation, product experimentation, and causal inference**. I am interested in **ML engineering, machine-learning research, AI science, and data science** roles that combine mathematical reasoning with implementation and empirical evaluation.
 
-My industry experience includes product and data work at ParagraphAI, where I designed controlled experiments, analyzed product and growth data, and configured and evaluated AI-agent workflows. SpeechLP was a project within this role, involving collaboration with speech-language pathologists and developers.
+Explore my [research](/portfolio/), [publications](/publications/), [experience](/experience/), and [CV](/cv/).
 
-I am interested in **Machine Learning Engineer, ML Researcher, AI Scientist, Research Scientist, and Data Scientist** opportunities that connect rigorous research with practical implementation and evaluation.
-
-## Research and applied interests
-
-- Certified robustness, adversarial machine learning, and neural-network verification
-- Certified robust training, bound propagation, and scalable convex relaxations
-- Sequential distribution-shift detection and statistical inference
-- AI-agent evaluation, product experimentation, and causal inference
-
-Explore my [research and selected projects](/portfolio/), [publications](/publications/), [experience](/experience/), and [CV](/cv/). My [presentations](/talks/), [teaching and mentorship](/teaching/), and [service and awards](/service-awards/) provide additional context.
-
-**Contact:** [Academic email](mailto:mohammadreza1.maleki@torontomu.ca) · [Personal email](mailto:mrezamaleki1374@gmail.com) · [LinkedIn](https://linkedin.com/in/mreza-maleki) · [GitHub](https://github.com/Mrezamaleki)
+[Academic Email](mailto:mohammadreza1.maleki@torontomu.ca) · [Personal Email](mailto:mrezamaleki1374@gmail.com) · [LinkedIn](https://linkedin.com/in/mreza-maleki) · [GitHub](https://github.com/Mrezamaleki)

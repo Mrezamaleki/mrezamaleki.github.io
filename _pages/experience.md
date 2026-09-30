@@ -23,8 +23,9 @@ Supervisor: Prof. Reza Samavi
 - Studied selective lifting and sparse constraints to improve certificate quality while managing computation.
 - Produced research software, benchmark evaluations, manuscripts, and presentations; assisted with student mentorship.
 
-### Research Assistant
-**Analog Integrated Circuit Design Laboratory, University of Tehran** · Tehran, Iran · 2017–2020
+### Master’s Researcher / Research Assistant
+**Analog Integrated Circuit Design Laboratory, University of Tehran** · Tehran, Iran · 2017–2020  
+Supervisor: Prof. Shahin Jafarabadi Ashtiani
 
 - Modeled, optimized, and simulated inductive wireless power and data transfer systems.
 - Contributed to a deep-brain-stimulator project through design and evaluation of amplifiers, coils, and rectifiers.
@@ -40,10 +41,10 @@ Supervisor: Prof. Reza Samavi
 ### Head of Product & Data
 **ParagraphAI** · Toronto, Canada · June–September 2026
 
-- Led product and data work, coordinating developers and domain experts around measurable requirements, experiments, and validated releases.
-- Designed controlled experiments and analyzed engagement, funnel, campaign, and revenue data to estimate effects and guide prioritization.
-- Configured and evaluated AI agents for analytics, content generation, and workflow automation through prompt refinement and structured evaluation.
-- On the **SpeechLP project within ParagraphAI**, collaborated with speech-language pathologists and developers on product planning, content verification, and experiments for speech-therapy games.
+- Led product and data work, coordinating developers and domain experts around measurable requirements and validated releases.
+- Designed controlled experiments and analyzed engagement, funnels, campaigns, and revenue to estimate effects and guide product decisions.
+- Configured AI-agent workflows for analytics, content generation, and business automation; refined prompts and used structured evaluation to assess accuracy, consistency, and task performance.
+- On **SpeechLP, a project within ParagraphAI**, collaborated with speech-language pathologists and developers on product planning, content verification, and experiments for speech-therapy games.
 
 **Research affiliation:** Vector Faculty Affiliate Researcher. Research on trustworthy and robust machine learning.
 

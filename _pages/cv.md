@@ -25,7 +25,7 @@ Postdoctoral Fellow at Toronto Metropolitan University and Vector Faculty Affili
 - **Industry Research Collaborator**, jamais51 Technologies Inc. and Toronto Metropolitan University, June 2026–present. Formalize threat models and integrity conditions and test an independent settlement verifier.
 - **Head of Product & Data**, ParagraphAI, June–September 2026. Designed controlled product experiments, analyzed user and growth data, and configured AI-agent workflows. SpeechLP was a project within this role; collaborated with speech-language pathologists and developers on product planning, content verification, and speech-therapy games.
 - **Doctoral Researcher / Research Assistant**, Trustworthy AI Research Lab, Toronto Metropolitan University, September 2021–May 2026. Developed robustness certificates, cascading verification, and research software.
-- **Research Assistant**, Analog Integrated Circuit Design Laboratory, University of Tehran, 2017–2020. Modeled inductive wireless power systems and contributed to a deep-brain-stimulator project.
+- **Master’s Researcher / Research Assistant**, Analog Integrated Circuit Design Laboratory, University of Tehran, 2017–2020. Modeled inductive wireless power systems and contributed to a deep-brain-stimulator project.
 
 **Research affiliation:** Vector Faculty Affiliate Researcher.
 
